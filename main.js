@@ -167,7 +167,15 @@
 
 // }
 // .........................................................
-//   
+    // var names=["avi","yosi","dan","ron","kim","don", "haim", "bob"]
+    // var numbers=[]
+    // for(var i=0;i<10;i++){
+    //     var input=Number(prompt("number"))
+    //     numbers.push(input)
+    // }
+    // for(var i=0;i<numbers.length;i++){
+    //     console.log(names);
+    // }
 // .............................................................
 // for(var i=1;i<101;i++){
 //     if(i%7!=0){
