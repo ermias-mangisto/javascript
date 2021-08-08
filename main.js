@@ -83,8 +83,8 @@
 // numbers[0]=numbers[1]
 // numbers[1]=num
 // var num1=numbers[0]
-// numbers[0]=numbers[7]
-// numbers[7]=num1
+// numbers[0]=numbers[numbers.length -1]
+// numbers[numbers.length -1]=num1
 
 
 // console.log(numbers);
